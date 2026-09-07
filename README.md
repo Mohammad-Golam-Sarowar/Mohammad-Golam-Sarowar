@@ -1,6 +1,6 @@
 # Hi, I'm Mohammad Golam Sarowar 👋
 
-### Network Engineer | Core IP Network | CSE Graduate | Research Enthusiast
+### Computer Science Engineer | Core IP Networking | Distributed Systems | AI/ML & IoT Research
 
 I am a Computer Science & Engineering graduate and a networking professional with experience in ISP Core IP Network operations. My interests span computer networking, cybersecurity, cloud computing, artificial intelligence, machine learning, and distributed systems.
 
