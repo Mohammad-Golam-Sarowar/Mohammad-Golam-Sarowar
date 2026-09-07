@@ -2,18 +2,19 @@
 
 ### Computer Science Engineer | Core IP Networking | Distributed Systems | AI/ML & IoT Research
 
-I am a Computer Science & Engineering graduate and a networking professional with experience in ISP Core IP Network operations. My interests span computer networking, cybersecurity, cloud computing, artificial intelligence, machine learning, and distributed systems.
+I am a Computer Science & Engineering graduate and networking professional with experience in ISP Core IP Network operations. My research interests focus on distributed systems, healthcare data integration, artificial intelligence, machine learning, federated learning, and IoT. I am particularly interested in developing secure, scalable, privacy-aware, and interoperable systems for real-world applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 💼 Assistant Manager – Core IP Network at Digi Jadoo Broadband Limited
-- 🌐 Experienced in ISP Core Network Operations & Traffic Engineering
-- 🎓 B.Sc. in Computer Science & Engineering
-- 🔬 Interested in academic research and emerging technologies
-- 📚 Currently developing skills in AI, Machine Learning, Data Science & Federated Learning
-- 🎯 Interested in international Master's and research opportunities
+- Assistant Manager – Core IP Network at Digi Jadoo Broadband Limited
+- Computer Science & Engineering graduate from Bangladesh University
+- Experienced in ISP Core Network Operations, Routing, MPLS, BGP, IPv6, and Traffic Engineering
+- Research interests include Distributed Systems, Healthcare Data Integration, AI/ML, Federated Learning, IoT, IoMT, Blockchain, and Edge Computing
+- Undergraduate thesis focused on heterogeneous healthcare database integration
+- Currently developing skills in Python, Data Science, Machine Learning, and Research Methodology
+
 
 ---
 
@@ -28,50 +29,58 @@ I am a Computer Science & Engineering graduate and a networking professional wit
 - Traffic Engineering
 - Network Troubleshooting
 - ISP Core Network Operations
-- Linux Server Administration
+
 
 ---
 
 ## 💻 Technical Interests
 
-`Computer Networks` `Cybersecurity` `Cloud Computing` `Linux`
-
-`Python` `Data Science` `Machine Learning` `Deep Learning`
-
-`Artificial Intelligence` `Federated Learning` `IoT`
-
-`Blockchain` `Edge Computing` `Distributed Systems`
+Core Technical: Computer Networks • BGP • MPLS • IPv6 • Linux
+Data & AI: Python • Data Science • Machine Learning • Deep Learning • Federated Learning
+Research Areas: Distributed Systems • IoT • IoMT • Blockchain • Edge Computing • Healthcare Data Integration
 
 ---
 
 ## 🔬 Research Interests
 
+- Distributed Systems
+- Healthcare Data Integration
 - Artificial Intelligence & Machine Learning
 - Federated Learning
 - Internet of Things (IoT)
 - Internet of Medical Things (IoMT)
-- Healthcare Data Analytics
-- Blockchain for Secure Communication
-- Network Security
-- AI-Driven Network Security
 - Edge & Cloud Computing
-- Distributed Systems
+- Blockchain for Secure Systems
+- Network Security
 
 ---
 
 ## 📂 Featured Work
 
-### 🌐 ISP Core Network Optimization & Traffic Engineering
-Core network operations, routing optimization, traffic engineering and network performance management.
+### 🥇 Distributed Telemedicine Systems
 
-### 🐧 Enterprise Linux Server Infrastructure
-Linux-based server infrastructure involving DNS, Web, DHCP, FTP, Mail and other network services.
-
-### 🏥 Distributed Telemedicine Systems
 Research focusing on AI, Federated Learning, IoMT, Blockchain and Edge Computing for secure distributed healthcare systems.
 
-### 🔗 IoT & Blockchain Research
+### 🥈 IoT & Blockchain Research
+
 Exploring IoT and blockchain-based architectures for secure, transparent and distributed systems.
+
+### 🥉 ISP Core Network Optimization & Traffic Engineering
+
+Core network operations, routing optimization, traffic engineering and network performance management.
+
+## 🔬 Research Projects
+
+### 📊 A Noble Technique of Patient Data Handling for Bangladesh
+**Undergraduate Thesis | Bangladesh University | 2024**
+
+A healthcare data integration system designed to consolidate patient records
+from heterogeneous hospital databases into a unified platform.
+
+**Technologies:** PHP • MySQL • PostgreSQL • MongoDB • JavaScript
+
+**Key Areas:** Healthcare Data Integration • Data Normalization •
+Interoperability • Information Retrieval • Distributed Systems
 
 ---
 
