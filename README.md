@@ -2,42 +2,23 @@
 
 ### Computer Science Engineer | Core IP Networking | Distributed Systems | AI/ML & IoT Research
 
-I am a Computer Science & Engineering graduate and networking professional with experience in ISP Core IP Network operations. My research interests focus on distributed systems, healthcare data integration, artificial intelligence, machine learning, federated learning, and IoT. I am particularly interested in developing secure, scalable, privacy-aware, and interoperable systems for real-world applications.
+I am a Computer Science & Engineering graduate from Bangladesh University and a networking professional with experience in ISP Core IP Network operations.
+
+My research interests focus on **Distributed Systems, Healthcare Data Integration, Artificial Intelligence, Machine Learning, Federated Learning, IoT, IoMT, Blockchain, Edge Computing, and Network Security**.
+
+I am particularly interested in developing **secure, scalable, privacy-aware, and interoperable systems** for real-world applications.
 
 ---
 
 ## 👨‍💻 About Me
 
-- Assistant Manager – Core IP Network at Digi Jadoo Broadband Limited
-- Computer Science & Engineering graduate from Bangladesh University
-- Experienced in ISP Core Network Operations, Routing, MPLS, BGP, IPv6, and Traffic Engineering
-- Research interests include Distributed Systems, Healthcare Data Integration, AI/ML, Federated Learning, IoT, IoMT, Blockchain, and Edge Computing
-- Undergraduate thesis focused on heterogeneous healthcare database integration
-- Currently developing skills in Python, Data Science, Machine Learning, and Research Methodology
-
-
----
-
-## 🌐 Networking & Infrastructure
-
-- BGP / MP-BGP
-- OSPF & IS-IS
-- MPLS
-- L2VPN / L3VPN
-- VPLS
-- IPv4 / IPv6
-- Traffic Engineering
-- Network Troubleshooting
-- ISP Core Network Operations
-
-
----
-
-## 💻 Technical Interests
-
-Core Technical: Computer Networks • BGP • MPLS • IPv6 • Linux
-Data & AI: Python • Data Science • Machine Learning • Deep Learning • Federated Learning
-Research Areas: Distributed Systems • IoT • IoMT • Blockchain • Edge Computing • Healthcare Data Integration
+- 🎓 BSc in Computer Science & Engineering from **Bangladesh University**
+- 💼 Assistant Manager – Core IP Network at **Digi Jadoo Broadband Limited**
+- 🌐 Experience in ISP Core Network Operations, Routing, BGP, MPLS, IPv6, and Traffic Engineering
+- 🔬 Interested in Distributed Systems and Healthcare Data Integration
+- 🤖 Exploring AI/ML, Federated Learning, IoT, IoMT, and Edge Computing
+- 📊 Currently developing skills in Python, Data Science, Machine Learning, and Research Methodology
+- 📝 Undergraduate thesis focused on heterogeneous healthcare database integration
 
 ---
 
@@ -52,94 +33,222 @@ Research Areas: Distributed Systems • IoT • IoMT • Blockchain • Edge Com
 - Edge & Cloud Computing
 - Blockchain for Secure Systems
 - Network Security
+- Computer Networking
+- Data Interoperability
+- Privacy-Preserving Computing
 
 ---
 
-## 📂 Featured Work
+## 📚 Research & Academic Work
 
-### 🥇 Distributed Telemedicine Systems
+### 🏥 Distributed Telemedicine Systems in Bangladesh
 
-Research focusing on AI, Federated Learning, IoMT, Blockchain and Edge Computing for secure distributed healthcare systems.
+**Working Paper | 2026 – Ongoing**
 
-### 🥈 IoT & Blockchain Research
+A research study focusing on distributed telemedicine systems in Bangladesh and the potential integration of emerging technologies for secure and scalable healthcare delivery.
 
-Exploring IoT and blockchain-based architectures for secure, transparent and distributed systems.
+**Research Areas:**
 
-### 🥉 ISP Core Network Optimization & Traffic Engineering
+`AI` `Federated Learning` `IoMT` `Blockchain` `Edge Computing` `Telemedicine`
 
-Core network operations, routing optimization, traffic engineering and network performance management.
+---
 
-## 🔬 Research Projects
+### 🌾 IoT-Based Smart Contract Framework for Rice Supply Chain Traceability Recall System and Consumer Safety
 
-### 📊 A Noble Technique of Patient Data Handling for Bangladesh
+**Conference Paper | TIBS 2026 | Manila, Philippines**
+
+Research on an IoT and smart-contract-based framework for improving rice supply chain traceability, recall mechanisms, and consumer safety.
+
+**Research Areas:**
+
+`IoT` `Blockchain` `Smart Contracts` `Supply Chain` `Traceability`
+
+---
+
+## 🎓 Undergraduate Thesis
+
+### 🏥 A Noble Technique of Patient Data Handling for Bangladesh
+
 **Undergraduate Thesis | Bangladesh University | 2024**
 
-A healthcare data integration system designed to consolidate patient records
-from heterogeneous hospital databases into a unified platform.
+Developed a healthcare data integration system designed to consolidate patient records from heterogeneous hospital databases into a unified platform.
 
-**Technologies:** PHP • MySQL • PostgreSQL • MongoDB • JavaScript
+The system integrates **MySQL, PostgreSQL, and MongoDB** through a centralized PHP-based backend and middleware layer, enabling standardized data retrieval and access through a single interface.
 
-**Key Areas:** Healthcare Data Integration • Data Normalization •
-Interoperability • Information Retrieval • Distributed Systems
+### Key Features
+
+- Patient registration and unique patient identification
+- Integration of heterogeneous healthcare databases
+- Data normalization and standardization
+- Cross-database patient record retrieval
+- Search using National ID and mobile number
+- Date-range and keyword-based search
+- Field-based and combined filtering
+- Centralized patient information access
+- Middleware/API-based communication
+
+### Technologies
+
+`PHP` `HTML` `CSS` `JavaScript` `MySQL` `PostgreSQL` `MongoDB`
+
+### Key Research Areas
+
+`Healthcare Data Integration`  
+`Data Normalization`  
+`Data Mapping`  
+`Data Validation`  
+`Interoperability`  
+`Information Retrieval`  
+`Distributed Systems`
+
+The project was developed using the **Incremental Software Development Model**, with modular implementation, testing, debugging, and iterative improvement.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🌐 Networking & Infrastructure
 
-**Networking:** Cisco • Juniper • MikroTik • Huawei
+My professional experience includes ISP-level Core IP Network operations and infrastructure management.
 
-**Routing:** BGP • OSPF • IS-IS • MPLS • IPv6
+### Routing & Core Networking
 
-**Systems:** Linux • Ubuntu • CentOS
+- BGP / EBGP / IBGP
+- MP-BGP
+- OSPF
+- IS-IS
+- MPLS
+- LDP
+- Route Reflectors
+- IPv4 / IPv6
+- Traffic Engineering
 
-**Programming & Data:** Python • SQL
+### MPLS Technologies
 
-**Research:** AI • ML • Federated Learning • IoT • Blockchain
+- MPLS L3VPN
+- MPLS L2VPN
+- VPLS
+- RSVP-TE
+- LSP
+
+### Network Operations
+
+- ISP Core Network Operations
+- Network Monitoring
+- Network Troubleshooting
+- Traffic Analysis
+- BGP Peering
+- IPv6 Deployment
+- CDN & Upstream Coordination
+- Network Performance Optimization
 
 ---
 
-## 🎓 Certifications & Training
+## 🛠️ Technical Skills
 
-- CCNA
-- MTCNA
-- MTCRE
-- JNCIA
-- Fortinet FortiGate Firewall NSE4
-- Basic & Advanced Networking Training
+### Programming & Web
+
+`Python` `PHP` `JavaScript` `HTML` `CSS`
+
+### Databases
+
+`MySQL` `PostgreSQL` `MongoDB`
+
+### Networking
+
+`BGP` `OSPF` `IS-IS` `MPLS` `IPv4` `IPv6` `L2VPN` `L3VPN` `VPLS`
+
+### Network Platforms
+
+`Cisco` `Juniper` `Huawei` `MikroTik`
+
+### Research & Productivity
+
+`Google Scholar` `Mendeley` `draw.io` `GitHub` `Microsoft Word` `Microsoft Excel`
 
 ---
 
-## 📈 Currently Learning
+## 📜 Certifications & Training
+
+- **CCNA**
+- **MTCNA**
+- **MTCRE**
+- **JNCIA**
+- **Fortinet FortiGate Firewall NSE4 Course**
+- **Research Through Data Science**
+- **Python & Machine Learning Training**
+- **Networking Training**
+
+---
+
+## 📖 Currently Learning
 
 - Python for Data Science
 - Machine Learning
 - Deep Learning
-- Statistical Analysis
 - Federated Learning
-- Research Methodology & Scientific Writing
+- Statistical Analysis
+- Data Science
+- Research Methodology
+- Scientific Writing
 
 ---
 
-## 🤝 Open to Collaboration
+## 🏆 Academic & Professional Highlights
 
-I am interested in collaborating on projects and research related to:
+- 🥇 Best Employee Award – 2025
+- 🚀 Early Career Promotion to Assistant Manager – 2026
+- 🎓 3rd Highest Academic Result – Final-Year Cohort, Bangladesh University CSE
+- 🏅 Highest CGPA Recognition – 5th Semester
+- 📚 Merit Scholarship – Diploma in Engineering
+- 🏆 Best Performer – Networking Training
 
-- Computer Networks & Network Security
+---
+
+## 🤝 Leadership & Mentoring
+
+- Team Leader – Network Operations
+- Assistant Class Representative
+- Peer Tutor & Study Group Leader
+- Student & Academic Mentor
+- Course Representative – Data Structure
+- Private Tutor
+
+---
+
+## 🌍 Open to Research Collaboration
+
+I am interested in academic and technical collaboration in:
+
+- Distributed Systems & Computer Networks
 - AI / Machine Learning
 - Federated Learning
-- IoT & IoMT
-- Blockchain
-- Cloud & Edge Computing
+- IoT / IoMT
 - Digital Healthcare Systems
+- Healthcare Data Integration
+- Blockchain
+- Edge & Cloud Computing
+- Network Security
+
+I am particularly interested in opportunities involving **research projects, MSc studies, academic collaboration, and applied technology research**.
 
 ---
 
-## 📫 Connect With Me
+## 🔗 Connect With Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/mohammad-golam-sarowar/)
-- 💻 [GitHub](https://github.com/Mohammad-Golam-Sarowar)
-- 🧑‍🔬 [ORCID](https://orcid.org/0009-0005-6811-1051)
+<p align="left">
+  <a href="https://www.linkedin.com/in/mohammad-golam-sarowar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://orcid.org/0009-0005-6811-1051" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0005--6811--1051-green?style=for-the-badge&logo=orcid" />
+  </a>
+</p>
 
 ---
 
-⭐ *Always learning, exploring new technologies, and building solutions for real-world problems.*
+## 📌 Profile Focus
+
+**Computer Science • Core IP Networking • Distributed Systems • Healthcare Data Integration • AI/ML • Federated Learning • IoT • IoMT • Blockchain • Edge Computing**
+
+---
+
+> Always learning, exploring new technologies, and building solutions for real-world problems.
